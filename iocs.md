@@ -6,7 +6,7 @@ This is an attempt to document some of the IOCs you may find when [Ruler] has be
 
 The best place to find Ruler is in web-server logs. The User-Agent has been hard-coded to "Ruler", a semi decent attacker would change this. But not everyone reads code...
 
-These logs should be availble in IIS for the Exchange Front-end server. It should also help detect attempts to brute-force credentials with Ruler.
+These logs should be available in IIS for the Exchange Front-end server. It should also help detect attempts to brute-force credentials with Ruler.
 
 # Local Host (Compromised Host)
 
